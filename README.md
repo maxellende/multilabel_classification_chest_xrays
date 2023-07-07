@@ -1,2 +1,2 @@
 # Multilabel classification of chest diseases 
-In progress - Multilabel classification of chest diseases using chest xrays
+Personnal project in progress - Multilabel classification of chest diseases using chest xrays
